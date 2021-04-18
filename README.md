@@ -1,6 +1,10 @@
 # Welcome to my Profile!
 ### About Me:
 ```csharp
+string Name = null;
+string From = "Norway";
+int Age = 14;
+
 var Epic = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python & Golang | .NET Reverse Engineering" },
