@@ -3,10 +3,10 @@
 ```csharp
 var ePiC = new Dictionary<string, string>
 {
-    { "Knowledge", "C#, Golang, Python | .NET Reverse Engineering" },
+    { "Knowledge", "C#, Python & Golang | .NET Reverse Engineering" },
     { "Projects", "HowlAIO" },
     { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
-    { "Interests", "Coding, Crypto and Video Games" },
+    { "Interests", "Coding, Crypto & Video Games" },
     { "OS", "Linux, Distro: Manjaro (KDE Plasma)" }
 };
 
