@@ -2,7 +2,7 @@
 ### About Me:
 ```csharp
 string Name = null;
-string From = "Norway";
+string Country = "Norway";
 int Age = 14;
 
 var Epic = new Dictionary<string, string>
