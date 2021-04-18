@@ -1,6 +1,18 @@
 # Welcome to my Profile!
-### Programming Languages:
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">**C#**</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">**Golang**</code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">**Python**</code>
-#### Discord: `ePiC#8019`
+### About Me:
+```csharp
+var ePiC = new Dictionary<string, string>
+{
+    { "Knowledge", "C#, Golang, Python | .NET Reverse Engineering" },
+    { "Projects", "HowlAIO" },
+    { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
+    { "Interests", "Coding, Crypto and Video Games" },
+    { "OS", "Linux, Distro: Manjaro (KDE Plasma)" }
+};
+
+foreach (var (key, val) in ePiC)
+{
+  Console.WriteLine($"{key}: {val}");
+}
+```
+#### Discord: `ePiC#6969`
