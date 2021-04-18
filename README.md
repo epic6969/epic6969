@@ -1,8 +1,8 @@
 # Welcome to my Profile!
 ### About Me:
 ```csharp
-string Name = null;
 const string Country = "Norway";
+string Name = null;
 int Age = 14;
 
 var Epic = new Dictionary<string, string>
