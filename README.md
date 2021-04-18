@@ -4,15 +4,16 @@
 var ePiC = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python & Golang | .NET Reverse Engineering" },
-    { "Projects", "HowlAIO" },
     { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
     { "Interests", "Coding, Crypto & Video Games" },
-    { "OS", "Linux, Distro: Manjaro (KDE Plasma)" }
+    { "OS", "Linux, Distro: Manjaro (KDE Plasma)" },
+    { "Projects", "HowlAIO" }
 };
 
-foreach (var (key, val) in ePiC)
+var ContactMe = new Dictionary<string, string>
 {
-  Console.WriteLine($"{key}: {val}");
-}
+    { "Email", "ebicdev@protonmail.com" },
+    { "Telegram", "https://t.me/epixc" },
+    { "Discord", "ePiC#6969" }
+};
 ```
-#### Discord: `ePiC#6969`
