@@ -10,7 +10,7 @@ var ePiC = new Dictionary<string, string>
     { "Projects", "HowlAIO" }
 };
 
-var ContactMe = new Dictionary<string, string>
+var Contact = new Dictionary<string, string>
 {
     { "Email", "ebicdev@protonmail.com" },
     { "Telegram", "https://t.me/epixc" },
