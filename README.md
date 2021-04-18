@@ -1,7 +1,7 @@
 # Welcome to my Profile!
 ### About Me:
 ```csharp
-var ePiC = new Dictionary<string, string>
+var Epic = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python & Golang | .NET Reverse Engineering" },
     { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
