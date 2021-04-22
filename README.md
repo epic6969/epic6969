@@ -16,9 +16,8 @@ var Epic = new Dictionary<string, string>
 
 var Contact = new Dictionary<string, string>
 {
-    // If you spam my email, you're a skid.
-    { "Email", "ebicdev@protonmail.com" },
+    { "Email", "supreme302@pm.me" },
     { "Telegram", "https://t.me/epixc" },
-    { "Discord", "ePiC#6969" }
+    { "Discord", "Supreme#2696" }
 };
 ```
