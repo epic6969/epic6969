@@ -11,7 +11,7 @@ var Epic = new Dictionary<string, string>
     { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
     { "Interests", "Coding, Crypto & Video Games" },
     { "OS", "Linux, Distro: Manjaro (KDE Plasma)" },
-    { "Projects", "HowlAIO" }
+    { "Projects", "WTFrick Editor" }
 };
 
 var Contact = new Dictionary<string, string>
