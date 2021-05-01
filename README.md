@@ -10,8 +10,7 @@ var Epic = new Dictionary<string, string>
     { "Knowledge", "C#, Python & Golang | .NET Reverse Engineering" },
     { "Tools", "Rider, Goland, Sublime Text, dnSpy & GitHub" },
     { "Interests", "Coding, Crypto & Video Games" },
-    { "OS", "Linux, Distro: Manjaro (KDE Plasma)" },
-    { "Projects", "WTFrick Editor" }
+    { "OS", "Linux, Distro: Manjaro (KDE Plasma)" }
 };
 
 var Contact = new Dictionary<string, string>
