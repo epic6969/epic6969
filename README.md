@@ -1,7 +1,7 @@
 # Welcome to my Profile!
 ### About Me:
 ```csharp
-const string Country = "Norway";
+const string From = "Norway";
 string Name = null;
 int Age = 14;
 
