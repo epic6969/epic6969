@@ -18,6 +18,6 @@ var Contact = new Dictionary<string, string>
 {
     { "Email", "supreme302@pm.me" },
     { "Telegram", "https://t.me/epixc" },
-    { "Discord", "Supreme#2696" }
+    { "Discord", "ePiC#2696" }
 };
 ```
