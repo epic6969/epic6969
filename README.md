@@ -23,6 +23,9 @@ var Contact = new Dictionary<string, string>
 ```
 ### Stats
 
-[![Epic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ePiC6969&theme=onedark)](https://github.com/epic6969/epic6969)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ePiC6969&layout=compact&theme=onedark)](https://github.com/epic6969/epic6969)
+<a href="https://github.com/epic6969/epic6969">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=ePiC6969&theme=onedark" />
+</a>
+<a href="https://github.com/epic6969/epic6969">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ePiC6969&layout=compact&theme=onedark" />
+</a>
