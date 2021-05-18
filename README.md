@@ -21,3 +21,6 @@ var Contact = new Dictionary<string, string>
     { "Discord", "ePiC#2696" }
 };
 ```
+### Stats
+
+[![Epic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ePiC6969)](https://github.com/epic6969/epic6969)
