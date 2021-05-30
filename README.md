@@ -23,9 +23,9 @@ var Contact = new Dictionary<string, string>
 <a href="https://github.com/epic6969/epic6969">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ePiC6969&theme=onedark&layout=compact"/>
 </a>
-<br>
+&nbsp;
 <a href="https://github.com/epic6969/epic6969">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ePiC6969&theme=onedark&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ePiC6969&theme=onedark&layout=default"/>
 </a>
 <br>
 <a href="https://github.com/epic6969/epic6969">
