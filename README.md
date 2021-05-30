@@ -31,5 +31,5 @@ var Contact = new Dictionary<string, string>
 </a>
 <br>
 <a href="https://github.com/epic6969/epic6969">
-    <img align="center" src="https://komarev.com/ghpvc/?username=epic6969"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=epic6969&color=DF6D74"/>
 </a>
