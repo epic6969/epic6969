@@ -8,7 +8,7 @@ int Age = 14; // 15 Soon™
 var Epic = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python & Golang | Reverse Engineering" },
-    { "Tools", "Rider, Goland, PyCharm & dnSpy" },
+    { "Tools", "Rider, Goland, PyCharm, dnSpy & more" },
     { "OS", "Windows 10 Pro N" }
 };
 
