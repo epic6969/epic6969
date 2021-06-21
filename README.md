@@ -16,7 +16,7 @@ var Contact = new Dictionary<string, string>
 {
     { "Email", "supreme302@pm.me" },
     { "Telegram", "https://t.me/epixc" },
-    { "Discord", "ePiC#2696" }
+    { "Discord", "ePiC#1111" }
 };
 ```
 ### Stats
